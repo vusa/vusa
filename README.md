@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vusa
 - 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning data science and crypto currencies
-- 💞️ I’m looking to collaborate on data science projects
+- 🌱 I’m currently learning data science, cryptocurrencies & Web3
+- 💞️ I’m looking to collaborate on data science & web3 projects
 - 📫 @vusa on twitter
 
 <!---
